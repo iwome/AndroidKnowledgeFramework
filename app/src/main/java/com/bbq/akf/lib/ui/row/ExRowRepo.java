@@ -1,4 +1,4 @@
-package com.bbq.androidknowledgeframework.lib.ui.row;
+package com.bbq.akf.lib.ui.row;
 
 import java.util.ArrayList;
 import java.util.Iterator;

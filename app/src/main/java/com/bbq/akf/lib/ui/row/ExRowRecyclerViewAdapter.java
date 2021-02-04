@@ -1,4 +1,4 @@
-package com.bbq.androidknowledgeframework.lib.ui.row;
+package com.bbq.akf.lib.ui.row;
 
 import android.content.Context;
 import android.view.ViewGroup;

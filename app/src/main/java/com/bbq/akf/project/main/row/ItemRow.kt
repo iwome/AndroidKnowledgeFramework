@@ -1,14 +1,13 @@
-package com.bbq.androidknowledgeframework.main.row
+package com.bbq.akf.project.main.row
 
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import androidx.recyclerview.widget.RecyclerView
-import com.bbq.androidknowledgeframework.R
-import com.bbq.androidknowledgeframework.lib.ui.row.ExRowBaseView
-import com.bbq.androidknowledgeframework.lib.ui.row.ViewHolder
-import com.bbq.androidknowledgeframework.main.bean.Item
-import com.bbq.androidknowledgeframework.main.bean.MenuType
+import com.bbq.akf.R
+import com.bbq.akf.lib.ui.row.ExRowBaseView
+import com.bbq.akf.lib.ui.row.ViewHolder
+import com.bbq.akf.project.main.bean.Item
+import com.bbq.akf.project.main.bean.MenuType
 
 /**
  * 说明

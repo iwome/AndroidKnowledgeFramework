@@ -1,12 +1,12 @@
-package com.bbq.androidknowledgeframework.main.activity
+package com.bbq.akf.project.main.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.bbq.androidknowledgeframework.R
-import com.bbq.androidknowledgeframework.main.adapter.MenuAdapter
-import com.bbq.androidknowledgeframework.main.bean.Item
-import com.bbq.androidknowledgeframework.main.bean.Menu
-import com.bbq.androidknowledgeframework.main.bean.Title
+import com.bbq.akf.R
+import com.bbq.akf.project.main.adapter.MenuAdapter
+import com.bbq.akf.project.main.bean.Item
+import com.bbq.akf.project.main.bean.Menu
+import com.bbq.akf.project.main.bean.Title
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

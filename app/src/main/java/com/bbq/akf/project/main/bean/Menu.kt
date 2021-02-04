@@ -1,4 +1,4 @@
-package com.bbq.androidknowledgeframework.main.bean
+package com.bbq.akf.project.main.bean
 
 /**
  * 说明

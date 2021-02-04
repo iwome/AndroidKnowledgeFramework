@@ -1,10 +1,10 @@
-package com.bbq.androidknowledgeframework.main.adapter
+package com.bbq.akf.project.main.adapter
 
 import android.content.Context
-import com.bbq.androidknowledgeframework.lib.ui.row.ExRowRecyclerViewAdapter
-import com.bbq.androidknowledgeframework.main.bean.Menu
-import com.bbq.androidknowledgeframework.main.row.ItemRow
-import com.bbq.androidknowledgeframework.main.row.TitleRow
+import com.bbq.akf.lib.ui.row.ExRowRecyclerViewAdapter
+import com.bbq.akf.project.main.bean.Menu
+import com.bbq.akf.project.main.row.ItemRow
+import com.bbq.akf.project.main.row.TitleRow
 
 /**
  * 说明
