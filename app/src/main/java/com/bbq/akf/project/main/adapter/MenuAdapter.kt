@@ -13,7 +13,7 @@ import com.bbq.akf.project.main.row.TitleRow
 
 class MenuAdapter(context: Context) : ExRowRecyclerViewAdapter(context) {
 
-    public fun setData(menus: List<Menu>) {
+    fun setData(menus: List<Menu>) {
         mExRowRepo.clear()
         for (menu in menus) {
             mExRowRepo.addLast(TitleRow(menu.title, mContext))

@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
     //todo mock
     private fun getMenuList(): List<Menu> {
         val title = Title("KOTLIN")
-        val items = listOf<Item>(Item("类与对象"), Item("集合"), Item("协程"), Item("lambda"))
+        val items = listOf(Item("类与对象"), Item("集合"), Item("协程"), Item("lambda"))
         return listOf(Menu(title, items))
     }
 }
